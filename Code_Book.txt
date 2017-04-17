@@ -1,0 +1,26 @@
+Feature Selection Code Book
+=================
+
+tba-xyz <- tBodyAcc-XYZ
+tra-xyz <- tGravityAcc-XYZ
+tbaj-xyz <- tBodyAccJerk-XYZ
+tbg-xyz <- tBodyGyro-XYZ
+tbgj-xyz <- tBodyGyroJerk-XYZ
+tbam <- tBodyAccMag
+tram <- tGravityAccMag
+tbajm <- tBodyAccJerkMag
+tbgm <- tBodyGyroMag
+tbgjm <- tBodyGyroJerkMag
+fba-xyz <- fBodyAcc-XYZ
+fbaj-xyz <- fBodyAccJerk-XYZ
+fbg-xyz <- fBodyGyro-XYZ
+fbam <- fBodyAccMag
+fbajm <- fBodyAccJerkMag
+fbgm <- fBodyGyroMag
+fbgjm <- fBodyGyroJerkMag
+
+The set of variables that were estimated from these signals are: 
+
+-m: Mean value
+-s: Standard deviation
+
